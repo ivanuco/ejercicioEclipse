@@ -4,7 +4,7 @@ public class Hola {
 
 	public Hola() {
 		// TODO Auto-generated constructor stub
-		System.out.println("Hola");
+		System.out.println("Hola, ¿qué tal?");
 	}
 
 	public static void main(String[] args) {
